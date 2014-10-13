@@ -32,7 +32,7 @@ angular.module('cc.time.filter', [])
             var date = new Date(date);
             var currentDate = new Date();
 
-            if (date.toDateString() == currentDate.toDateString) {
+            if (date.toDateString() == currentDate.toDateString()) {
 
                 var minutes = currentDate.getMinutes() - date.getMinutes();
                 var hours = currentDate.getHours() - date.getHours();
