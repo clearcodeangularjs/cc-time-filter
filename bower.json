@@ -5,6 +5,7 @@
   "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
+  "homepage": "http://plnkr.co/edit/5V5wLk6RBC6WqrvkicKk",
   "main": "popovertemplate.js",
   "ignore": [
     "**/.*",
