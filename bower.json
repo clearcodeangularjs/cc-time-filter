@@ -1,12 +1,12 @@
 {
-	"name": "popover",
-	"description": "Creates bootstrap popover with template with controller",
+	"name": "cc-time-filter",
+	"description": "Calculate difference between chosen one and current date",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
 	],
 	"version": "1.0.0",
 	"homepage": "http://plnkr.co/edit/5V5wLk6RBC6WqrvkicKk",
-	"main": "popovertemplate.js",
+	"main": "time.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
@@ -14,10 +14,7 @@
 		"example"
 	],
 	"dependencies": {
-		"angular": "~1.0.6",
-		"jquery": "~1.10.2",
-		"sass-bootstrap": "~3.0.2",
-		"adhesive-utils": "~1.0.0"
+		"angular": "~1.0.6"
 	},
 	"devDependencies": {
 		"grunt": "^0.4.1",
