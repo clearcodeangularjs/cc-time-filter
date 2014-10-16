@@ -5,7 +5,7 @@ Calculate difference between chosen one and current date
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-time-filter --save ```
 
 
 Usage
